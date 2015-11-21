@@ -13,5 +13,5 @@ Web_Stocksport/SET100
 + 3.การซื้อขายประจำวัน 
 Web_Stocksport/Trading_day.html 
 
-  write by Sangaroonaom 5605104046
+  write by Sangaroonaom 5605104047
 
