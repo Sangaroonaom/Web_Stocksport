@@ -6,7 +6,7 @@ topten.html
   write by 5605104046 Wisit Lertsakwimarn (scrum master ot project manager)
 
 + 2.แสดงหุ้นSET100ประจำวัน
-/SET100
+SET100.html
 
   write by anonowen 
 
@@ -17,14 +17,14 @@ Trading_day.html
   
 + 4.ข้อมูลบริษท
 
-datacompany.html
+  datacompany.html
 
- write by  AlisaKiatkongkumthon  5605104029
+   write by  AlisaKiatkongkumthon  5605104029
  
-+ 5. overview
++  5 . overview
 
-overview.html
+  overview.html
 
- write by Rodjana 5605104037
+   write by Rodjana 5605104037
 
 
