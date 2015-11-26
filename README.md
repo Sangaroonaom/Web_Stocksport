@@ -3,7 +3,7 @@
 + 1.แสดงหุ้นที่ทำกำไรสูงสุด10อันดับประจำวัน
 topten.html  
 
-  write by 5605104046 Wisit Lertsakwimarn (scrum master ot project manager)
+  write by 5605104046 Wisit Lertsakwimarn (scrum master or project manager)
 
 + 2.แสดงหุ้นSET100ประจำวัน
 SET100.html
