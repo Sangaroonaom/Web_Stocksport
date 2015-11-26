@@ -1,7 +1,7 @@
 # งานชิ้นที่ 2 Web_Stocksport  (งานกลุ่ม)
 + link http://workgroup02.azurewebsites.net/
 + 1.แสดงหุ้นที่ทำกำไรสูงสุด10อันดับประจำวัน
-topten.html  
+topten.html  and index.html
 
   write by 5605104046 Wisit Lertsakwimarn (scrum master or project manager)
 
