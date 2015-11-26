@@ -11,7 +11,7 @@ SET100.html
   write by anonowen 
 
 + 3.การซื้อขายประจำวัน 
-Trading_day.html 
+Tradingday.html 
 
   write by Sangaroonaom 5605104047
   
