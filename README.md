@@ -8,7 +8,7 @@ topten.html  and index.html
 + 2.แสดงหุ้นSET100ประจำวัน
 SET100.html
 
-  write by anonowen 
+  write by anonono
 
 + 3.การซื้อขายประจำวัน 
 Tradingday.html 
