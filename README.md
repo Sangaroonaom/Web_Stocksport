@@ -27,7 +27,7 @@ Tradingday.html
 
    write by Rodjana 5605104037
    
-+ 6. Interesting
++ 6 . Interesting
 
   Interesting.html
   
